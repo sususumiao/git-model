@@ -1,12 +1,9 @@
 <template>
   <div id="app">
-<<<<<<< HEAD
     121212
-=======
     <el-button icon="el-icon-search" circle></el-button>
      <el-button type="primary" icon="el-icon-edit" circle></el-button>
   <el-button type="success" icon="el-icon-check" circle></el-button>
->>>>>>> origin/feature_two_20191120
   </div>
 </template>
 

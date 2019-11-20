@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-
+    <el-button icon="el-icon-search" circle></el-button>
   </div>
 </template>
 
